@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc32239542cc4542b72ffa77392d8b89",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "Image0e5627f02a4aa44",
+        "headerContainer03",
+        "FlexContainer0ea0a34b3b2ff40",
+        "folderContainer2"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "HomeController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "GalaxyS3",
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "Home",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4,
+            "titleBarConfig": {
+                "buttonClosureLeftSideView": "",
+                "buttonClosureRightSideView": "",
+                "buttonText": "Edit",
+                "leftButtonText": "Back",
+                "leftTitle": "Back",
+                "prevFormTitle": false,
+                "renderTitleText": true,
+                "rightTitle": "Edit",
+                "titleBarLeftSideView": "button",
+                "titleBarRightSideView": "button",
+                "titleClosureLeftSideView": "",
+                "titleClosureRightSideView": "",
+                "visible": true
+            }
+        },
+        "titleBar": true
+    },
+    "isvisible": true,
+    "kuid": "e5729b28c42544628694261b29c8bfde",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "platform": "android",
+    "prevDevice": "GalaxyS5",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "and_GalaxyS3",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "titleBarSkin": "s648d7c0469c4a4ba0065663414f4052",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

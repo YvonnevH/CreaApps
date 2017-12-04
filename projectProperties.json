@@ -1,0 +1,180 @@
+{
+    "APPLICATION_THEME": "default",
+    "appaddrkey": "",
+    "appidkey": "CreaApps",
+    "appnamekey": "CreaApps",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "createdVizVersion": "8.0.1",
+    "createdgaversion": "8.0.1",
+    "currentgaversion": "8.0.1",
+    "enableCustomData": false,
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "8.0.1",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "project.type": "js",
+    "project_version": "sprint29",
+    "referenceWidth": "375",
+    "startupformkey": "e5729b28c42544628694261b29c8bfde",
+    "vendornamekey": "KonyLabs",
+    "winmobileguidkey": "",
+    "defaulttheme": "defaultTheme",
+    "nativeContainerProperties": {
+        "isModified": true,
+        "isEnableJSContainer": false,
+        "isEnableJSContainerAndroid": false,
+        "isEnableJSContaineriOS": false
+    },
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "e0cfa3e12b1d4835ad0460c21651b92d"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "de1d92ea74e14571914c8944b4f1d5b7"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "a774fa7d2f6741cebab651fb71f57d3d"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "dd7c9f5a9bca44dabda74e3e3f2b1e46"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "a5349c7375dc46dfa154be4d9dcd33a4"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "c5114ce8a789495ca0d5237632a1139e"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "bc2f3795a9f64efe907317ad396d0cec"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "h2ddc14058504aa595392841952f2d22"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "h7df1cb7526e42c68094def9df52d1ae",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "cc8d64841dcf44f1941ea10f0ecd3523",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "eba784bc54ce42bc8382008b97f5948b",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "i5785107ddc74ef2ae94b642ea11bd6f",
+                    "windows8": {
+                        "position": "BOTTOM_LEFT",
+                        "appBarButtonStyle": "No Style"
+                    }
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "accountCloudGuid": "ac8127e7-7a87-4505-9993-3d5231aa9a23",
+    "projectCloudGuid": "3e0b206b-0325-486f-b230-ce037b6464ed",
+    "prototype": {
+        "createdOn": "2017-11-27T08:35:57.501Z",
+        "createdById": "d55cf482-0d7f-4ced-a021-b76a4776826c",
+        "createdBy": "Yvonne van%20Hamersveld",
+        "shareGuid": "UVXQ3",
+        "resourceId": "11ed520a-1b70-4765-a4aa-abf083952fe4",
+        "PublishMode": "protected"
+    },
+    "defaultSkins": "{\"Label\":{\"skin\":\"sf9eabdd318340e28d5ab2966112b86a\"}}"
+}

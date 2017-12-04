@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCamera",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5970d43d97942f38b08519c449adc5a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98.89%"
+    },
+    "canUpdateUI": true,
+    "compressionlevel": 0,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "cameraIcon2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gbc096ff81b64d16a7abf63cc4e2af71",
+    "name": "kony.ui.Camera",
+    "oncapture": "AS_Camera_dde0191e31554331b612247e61714818",
+    "parent": "cameraFolder2",
+    "pf": "Home",
+    "scalefactor": 10,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "wType": "Camera",
+    "watchos": {
+        "render": false
+    },
+    "zindex": 2
+}

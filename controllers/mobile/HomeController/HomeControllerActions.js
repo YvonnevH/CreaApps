@@ -6,6 +6,11 @@ define({
         var self = this;
         this.view.folderContainer2.isVisible = true;
     },
+    AS_Label_bb30f4f664624382a7931a6273e0c217: function AS_Label_bb30f4f664624382a7931a6273e0c217(eventobject, x, y) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("Folder1");
+        ntf.navigate();
+    },
     AS_Camera_i593af700b3e4930903b57ba534987f9: function AS_Camera_i593af700b3e4930903b57ba534987f9(eventobject) {
         var self = this;
         this.view.Image0e5627f02a4aa44.rawBytes = this.view.Camera0b5b12a35786b44.rawBytes;

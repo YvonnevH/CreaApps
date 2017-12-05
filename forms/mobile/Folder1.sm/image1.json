@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "150dp"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
-        "value": "183dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -27,29 +27,29 @@
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "486dp"
+        "value": "10%"
     },
     "_width_": {
         "type": "string",
-        "value": "150dp"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "Home",
+        "formID": "Folder1",
         "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "Image0ac07a00ab9384d",
+    "id": "image1",
     "imagescalemode": 1,
     "info": null,
     "isvisible": true,
-    "kuid": "c9f312140f154f7c800d4a348cffcb2a",
+    "kuid": "fe8210c3dd7444e6b38a85dcd9caab65",
     "name": "kony.ui.Image2",
-    "parent": "Home",
-    "pf": "Home",
+    "parent": "Folder1",
+    "pf": "Folder1",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

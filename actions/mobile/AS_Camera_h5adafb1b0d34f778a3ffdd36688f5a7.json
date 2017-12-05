@@ -1,0 +1,28 @@
+{
+    "AS_Camera_h5adafb1b0d34f778a3ffdd36688f5a7": {
+        "id": "AS_Camera_h5adafb1b0d34f778a3ffdd36688f5a7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Folder1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a917c1e4216245aeb272d57550df96dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cd0fd284934b4f2ea9c017072b389515",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onCapture",
+            "display": "onCapture",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

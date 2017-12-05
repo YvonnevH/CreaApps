@@ -1,0 +1,23 @@
+{
+    "AS_Button_c00f6a9f53ac48b2949d2e741c9ffe10": {
+        "id": "AS_Button_c00f6a9f53ac48b2949d2e741c9ffe10",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Folder1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a917c1e4216245aeb272d57550df96dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onClick_d35d977560fc4a919364255c21359b24",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.folderContainer2.isVisible = true;",
+            "callbackType": null
+        }]
+    }
+}

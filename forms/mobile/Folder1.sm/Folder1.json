@@ -26,16 +26,15 @@
     },
     "canUpdateUI": true,
     "children": [
-        "Image0e5627f02a4aa44",
+        "image1",
         "headerContainer03",
-        "FlexContainer0ea0a34b3b2ff40",
-        "folderContainer2"
+        "cameraContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "HomeController"
+            "name": "Folder1Controller"
         }
     },
     "currentLocale": "default",
@@ -45,7 +44,7 @@
     "device": "GalaxyS3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Home",
+    "id": "Folder1",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -58,8 +57,6 @@
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
-                "buttonClosureLeftSideView": "",
-                "buttonClosureRightSideView": "",
                 "buttonText": "Edit",
                 "leftButtonText": "Back",
                 "leftTitle": "Back",
@@ -76,7 +73,7 @@
         "titleBar": true
     },
     "isvisible": true,
-    "kuid": "e5729b28c42544628694261b29c8bfde",
+    "kuid": "a917c1e4216245aeb272d57550df96dd",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": true,

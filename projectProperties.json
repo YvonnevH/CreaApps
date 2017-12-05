@@ -29,7 +29,7 @@
     "winmobileguidkey": "",
     "defaulttheme": "defaultTheme",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
@@ -167,14 +167,15 @@
         "wType": "Appmenu"
     },
     "accountCloudGuid": "ac8127e7-7a87-4505-9993-3d5231aa9a23",
-    "projectCloudGuid": "3e0b206b-0325-486f-b230-ce037b6464ed",
+    "projectCloudGuid": "6fb76ace-a3c1-4497-a471-fa59d2e9873f",
     "prototype": {
         "createdOn": "2017-11-27T08:35:57.501Z",
         "createdById": "d55cf482-0d7f-4ced-a021-b76a4776826c",
         "createdBy": "Yvonne van%20Hamersveld",
         "shareGuid": "UVXQ3",
-        "resourceId": "11ed520a-1b70-4765-a4aa-abf083952fe4",
+        "resourceId": "ccd97e02-f961-43fd-a64d-e070cb4aea4a",
         "PublishMode": "protected"
     },
-    "defaultSkins": "{\"Label\":{\"skin\":\"sf9eabdd318340e28d5ab2966112b86a\"}}"
+    "defaultSkins": "{\"Label\":{\"skin\":\"sf9eabdd318340e28d5ab2966112b86a\"}}",
+    "projectResourceCloudGuid": "6d1d44cd-1d02-497b-b750-4bc40f909fc0"
 }

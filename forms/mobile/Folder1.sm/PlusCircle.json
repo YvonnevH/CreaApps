@@ -6,11 +6,15 @@
         "type": "ref",
         "value": "preferred"
     },
+    "_left_": {
+        "type": "string",
+        "value": "335dp"
+    },
     "_margin_": [
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0
     ],
     "_padding_": [
         0,
@@ -18,8 +22,12 @@
         0,
         0
     ],
-    "_skin_": "sfcae7cfc04a4eef9df915593d56c096",
-    "_text_": "Folder 1",
+    "_skin_": "s1cad0addd66437ca3247e8aa188d609",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -32,17 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "30%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0i6bbc14472e149",
+    "id": "PlusCircle",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,12 +55,12 @@
         }
     },
     "isvisible": true,
-    "kuid": "f89d68f8dcb44f5799a72a43b503e7f8",
+    "kuid": "g740657f452847d6b2ba57956ea2626d",
+    "masterType": 1,
     "name": "kony.ui.Label",
-    "ontouchstart": "AS_Label_bb30f4f664624382a7931a6273e0c217",
-    "parent": "FlexContainer0ea0a34b3b2ff40",
-    "pf": "Home",
+    "parent": "headerContainer03",
+    "pf": "Folder1",
     "tooltip": "",
     "wType": "Label",
-    "zindex": 4
+    "zindex": 1
 }

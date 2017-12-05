@@ -1,0 +1,23 @@
+{
+    "AS_Camera_g3fb1b15170848aa992bbb9024e20fe0": {
+        "id": "AS_Camera_g3fb1b15170848aa992bbb9024e20fe0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Folder1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a917c1e4216245aeb272d57550df96dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_onCapture_g5b0e7fef67a4fa58dc059e8916cd8c8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.Image0e2df4ec8117946.rawBytes = this.view.cameraIcon2.rawBytes;",
+            "callbackType": null
+        }]
+    }
+}

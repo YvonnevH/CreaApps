@@ -1,0 +1,353 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segLocations",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f2c23661bb2048cf952a673d3dc75575",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "1.51 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2.8 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistatm.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "3.6 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ATM"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistatm.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4.2 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ATM"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4.8 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "5 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistatm.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4.2 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "ATM"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            },
+            {
+                "imgArrow": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistchevron.png"
+                },
+                "imgLocation": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "konymplistbranch.png"
+                },
+                "lblDistance": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "5.6 Mi"
+                },
+                "lblHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Branch"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "4378 Kshlerin Lock Suite 639"
+                },
+                "lblSubHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Bayhill"
+                }
+            }
+        ],
+        "rowTemplateId": "d1dc6714f56e493ca17c2bb3b59b4ba5",
+        "rowtemplate": "flxRowLocations",
+        "widgetdatamap": {
+            "flxRowLocations": "flxRowLocations",
+            "imgArrow": "imgArrow",
+            "imgLocation": "imgLocation",
+            "lblDistance": "lblDistance",
+            "lblHeader": "lblHeader",
+            "lblLocation": "lblLocation",
+            "lblSubHeader": "lblSubHeader"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Locations",
+    "pf": "userwidgetmodel",
+    "retainselection": false,
+    "rowcounter": 8,
+    "rowfocusskin": "se2d659498ee4013abce8c3e908f1f01",
+    "rowskin": "s2ab5d8e8abe4d29aebff1c5899ffeff",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa092fb63cfb4117a8fb6e30e0fa2846",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d3d3d300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRowLocations": "flxRowLocations",
+        "imgArrow": "imgArrow",
+        "imgLocation": "imgLocation",
+        "lblDistance": "lblDistance",
+        "lblHeader": "lblHeader",
+        "lblLocation": "lblLocation",
+        "lblSubHeader": "lblSubHeader"
+    },
+    "zindex": 1
+}

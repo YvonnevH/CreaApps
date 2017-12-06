@@ -1,0 +1,160 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgSlide": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        },
+        {
+            "imgSlide": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        },
+        {
+            "imgSlide": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "fc8f6914633d45c2bb1b96ec9a35920c",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segCarousel1",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "i053355acfac4466ac33fb27ce9913a9",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "imgSlide": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "kony_mp_carousel1_slides1.png"
+                }
+            },
+            {
+                "imgSlide": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "kony_mp_carousel1_slides2.png"
+                }
+            },
+            {
+                "imgSlide": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "kony_mp_carousel1_slides3.png"
+                }
+            },
+            {
+                "imgSlide": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "kony_mp_carousel1_slides4.png"
+                }
+            }
+        ],
+        "rowTemplateId": "e4d823a0c5824e858c8d894355ee238c",
+        "rowtemplate": "Copykonympcarousel1",
+        "sectionHeaderTemplateId": null,
+        "selectionBehaviorConfig": null,
+        "widgetdatamap": {
+            "Copykonympcarousel1": "Copykonympcarousel1",
+            "imgSlide": "imgSlide"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": false,
+    "onswipe": "AS_Segment_c28eb920ed08455aa3d715d8f8c9e462",
+    "ontouchstart": "AS_Segment_aeb62862a04a4c6286642599eca0a4ee",
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "Folder1",
+    "pf": "Folder1",
+    "retainselection": false,
+    "rowTemplateId": "e4d823a0c5824e858c8d894355ee238c",
+    "rowcounter": 2,
+    "rowfocusskin": "sc32c06916c647298b49a404c650b006",
+    "rowskin": "s98aee10ea85452d939c6ff850b8b120",
+    "rowtemplate": "Copykonympcarousel1",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s8542d6bf0de404cb7fc68f84c07db20",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 720,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Copykonympcarousel1": "Copykonympcarousel1",
+        "imgSlide": "imgSlide"
+    },
+    "zindex": 5
+}

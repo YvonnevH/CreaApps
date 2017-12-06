@@ -37,7 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "Camera",
-        "Camera0b5b12a35786b44"
+        "Camera1"
     ],
     "clipbounds": true,
     "containerweight": 100,

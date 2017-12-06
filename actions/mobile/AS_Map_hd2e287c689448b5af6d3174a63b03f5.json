@@ -1,0 +1,24 @@
+{
+    "AS_Map_hd2e287c689448b5af6d3174a63b03f5": {
+        "id": "AS_Map_hd2e287c689448b5af6d3174a63b03f5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Folder1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a917c1e4216245aeb272d57550df96dd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__f92bbe19d08643f99014bfa487fbd9b2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "function successcallback(position) {\n  \tvar locationData = {lat: position.coords.latitude, lon: position.coords.longitude};\n  \tkony.application.getCurrentForm().Map0.navigateToLocation(locationData, false, false);\n}\n\nfunction errorcallback(positionerror) {\n    var errorMesg = \"Error code: \" + positionerror.code;\n    errorMesg = errorMesg  + \" message: \" + positionerror.message;\n    alert(errorMesg);\n\n}\n\nvar positionoptions = {maximumage: 3000};\n\n// Options: retrieve the location every 3 seconds\n\nkony.location.getCurrentPosition(successcallback, errorcallback, positionoptions);\n\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

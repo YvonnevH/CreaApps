@@ -14,10 +14,10 @@
         },
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION___cd0fd284934b4f2ea9c017072b389515",
+            "id": "INVOKE_FUNCTION___aceb9bdf8c3f4e1eaeaf2664270ff882",
             "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "onCapture",
-            "display": "onCapture",
+            "sequenceKUID": "imageLocation",
+            "display": "imageLocation",
             "inputparams": [],
             "parentId": null,
             "callbackType": null,

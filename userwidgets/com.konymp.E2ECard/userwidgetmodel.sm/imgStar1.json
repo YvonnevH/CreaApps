@@ -1,15 +1,16 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
+    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "20dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -23,35 +24,35 @@
         0,
         0
     ],
-    "_skin_": "sc59c7290b6d4020ba64afd6bf0d3f39",
-    "_src_": "imagedrag.png",
+    "_skin_": "s213c1c647154c5a87b0b6b016d1b699",
+    "_src_": "kony_mp_carousel1_star_active.png",
     "_top_": {
         "type": "string",
-        "value": "10%"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "20dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "Folder1",
-        "platform": "android",
-        "templateType": "forms",
+        "platform": "iphone",
+        "templateType": "userwidgets",
         "topLevelBox": null
     },
-    "id": "image1",
+    "id": "imgStar1",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "fe8210c3dd7444e6b38a85dcd9caab65",
+    "kuid": "uf5751d6eb0d485fad4857ba4f0e5ad2",
     "name": "kony.ui.Image2",
-    "parent": "Folder1",
-    "pf": "Folder1",
+    "parent": "flxStar",
+    "pf": "userwidgetmodel",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,
-    "zindex": 4
+    "zindex": 2
 }

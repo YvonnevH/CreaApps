@@ -26,9 +26,10 @@
     },
     "canUpdateUI": true,
     "children": [
-        "image1",
+        "segCarousel1",
         "headerContainer03",
-        "cameraContainer"
+        "cameraContainer",
+        "Map0"
     ],
     "containerweight": 100,
     "controllerInfo": {
